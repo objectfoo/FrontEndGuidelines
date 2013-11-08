@@ -14,14 +14,20 @@
 
 ## Overview
 
-This document contains guidelines for web applications built by WHS. Its readily available to anyone who wishes to check or contribute to the iterative progress of our best practices.
+This document contains guidelines for web applications built by WHS. It is readily available to anyone who wishes to check or contribute to our best practices.
 
 This document's primary motivation is to promote code consistency. By maintaining consistency in coding styles and conventions, we can ease the burden of legacy code maintenance, and mitigate risk of breakage in the future. By adhering to best practices, we ensure a consistent user experience, optimized page loading, and maintainable code.
 
-This document outlines the conventions we use at WHS. This is an open document and everything is up for discussion/consideration. We have a tremendous amount of legacy code that does not adhere to these rules, and if you find yourself in one of those files it is in everyone's best interest to refactor it.
+> This document outlines the conventions we use at WHS. This is an open document and everything is up for discussion/consideration. We have a tremendous amount of legacy code that does not adhere to these rules, and if you find yourself in one of those files it is in everyone's best interest to refactor it.
+
+We have a tremendous amount of legacy code that does not adhere to these rules, if you find yourself in one of those files it is in everyone's best interest to refactor it.
 
 These guidelines are not specific to WHS. Our product is not unique enough to warrant deviations from industry standards. Much of this document has been adapted from other front end development guidelines. We're not developing on a seperate internet or for a unique browser, so we shouldn't need to invent new standards.
 
+
+### Contributing
+
+This is an open document and everything is up for discussion and consideration. If you'd like to contribute contact CDavis@webmd.net.
 
 ## Supported Browsers
 
